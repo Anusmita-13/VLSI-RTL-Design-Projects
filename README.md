@@ -110,7 +110,7 @@ All designs are written, simulated, and synthesized manually, ensuring clarity o
 
 📇 **Contact**
 
-📧Email:anusmitadasgupta1305@gmail.com
+📧Email:anushmita2001@gmail.com
 
 🔗Linkedin: www.linkedin.com/in/anusmita-dasgupta
 
