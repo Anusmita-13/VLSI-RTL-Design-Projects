@@ -1,9 +1,9 @@
-💡 RTL Design & Synthesis using Open-Source EDA Tools 
+💡 **RTL Design & Synthesis using Open-Source EDA Tools** 
 
 This repository demonstrates my hands-on experience with RTL design, functional verification, waveform analysis, and logic synthesis using industry-relevant open-source VLSI tools.
 The projects focus on building strong fundamentals in digital design and hardware description using Verilog, following a complete RTL-to-netlist flow.
 
-🔧 Tools & Technologies
+🔧 **Tools & Technologies**
 
 •  **Verilog HDL** – RTL design and testbench development
 
@@ -17,7 +17,7 @@ The projects focus on building strong fundamentals in digital design and hardwar
 
 •	**Linux (Ubuntu)** – Command-line based design flow
 
-📂 Repository Structure
+📂 **Repository Structure**
 
 Each module ( e.g. ALU, MUX, Gates, Counter, etc.) is located in its own folder and contains:
 
@@ -39,7 +39,7 @@ Each module ( e.g. ALU, MUX, Gates, Counter, etc.) is located in its own folder 
 
 •	**module_yosys_show.png**: Gate-level logic schematic (Yosys show)
 
-🧩 Designs Implemented
+🧩 **Designs Implemented**
 
 The repository includes a variety of foundational digital blocks, such as:
 
@@ -65,23 +65,23 @@ Each module is implemented with:
 
 •	Successful synthesis using Yosys
 
-🔄 Design Flow Followed
+🔄 **Design Flow Followed**
 
 For every module, the following industry-standard flow is applied:
 
-1.	RTL Design
+1.	**RTL Design**
    
 👉Modular, synthesizable Verilog
 
 👉Parameterized where applicable
 
-2.	Functional Verification
+2.	**Functional Verification**
    
 👉Testbench-driven simulation
 
 👉Verification through GTKWave signal analysis
 
-3.	Synthesis
+3.	**Synthesis**
    
 👉RTL elaboration using Yosys
 
@@ -89,7 +89,7 @@ For every module, the following industry-standard flow is applied:
 
 This demonstrates an understanding of how RTL translates into actual hardware logic.
 
-🎯 Skills Demonstrated
+🎯 **Skills Demonstrated**
 
 ✅RTL coding best practices in Verilog
 
@@ -103,12 +103,12 @@ This demonstrates an understanding of how RTL translates into actual hardware lo
 
 ✅End-to-end digital design execution using open-source tools
 
-💻 About This Repository
+💻 **About This Repository**
 
 This repository reflects my practical learning and implementation of digital design concepts, beyond theory.
 All designs are written, simulated, and synthesized manually, ensuring clarity on how hardware behaves at both RTL and gate levels.
 
-📇 Contact
+📇 **Contact**
 
 📧Email:anusmitadasgupta1305@gmail.com
 
