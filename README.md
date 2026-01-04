@@ -4,24 +4,27 @@ This repository demonstrates my hands-on experience with RTL design, functional 
 The projects focus on building strong fundamentals in digital design and hardware description using Verilog, following a complete RTL-to-netlist flow.
 
 🔧 Tools & Technologies
-•	Verilog HDL – RTL design and testbench development
-•	Icarus Verilog – Compilation and simulation
-•	GTKWave – Signal waveform visualization and debugging
-•	Yosys – RTL synthesis and gate-level netlist generation
-•	Graphviz / xdot – Logic-level schematic visualization
-•	Linux (Ubuntu) – Command-line based design flow
+
+-•	**Verilog HDL** – RTL design and testbench development
+-•	**Icarus Verilog** – Compilation and simulation
+-•	**GTKWave** – Signal waveform visualization and debugging
+-•  **Yosys** – RTL synthesis and gate-level netlist generation
+-•	**Graphviz / xdot** – Logic-level schematic visualization
+-•	**Linux (Ubuntu)** – Command-line based design flow
 
 📂 Repository Structure
+
 Each module ( e.g. ALU, MUX, Gates, Counter, etc.) is located in its own folder and contains:
-•	module.v: Verilog RTL code
-•	module_tb.v: Testbench
-•	module.vcd: Output waveform from Icarus + Gtkwave simulation
-•	waveform.png: GTKWave screenshot
-•	module.ys: Yosys synthesis script
-•	module_synth.v: Gate-level netlist
-•	module.blif: Logic netlist format
-•	module.json: JSON netlist (for OpenROAD/backend)
-•	module_yosys_show.png: Gate-level logic schematic (Yosys show)
+
+-•	**module.v**: Verilog RTL code
+-•	**module_tb.v**: Testbench
+-•	**module.vcd**: Output waveform from Icarus + Gtkwave simulation
+-•	**waveform.png**: GTKWave screenshot
+-•	**module.ys**: Yosys synthesis script
+-•	**module_synth.v**: Gate-level netlist
+-•	**module.blif**: Logic netlist format
+-•	**module.json**: JSON netlist (for OpenROAD/backend)
+-•	**module_yosys_show.png**: Gate-level logic schematic (Yosys show)
 
 🧩 Designs Implemented
 The repository includes a variety of foundational digital blocks, such as:
