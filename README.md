@@ -1,4 +1,5 @@
 💡 RTL Design & Synthesis using Open-Source EDA Tools 
+
 This repository demonstrates my hands-on experience with RTL design, functional verification, waveform analysis, and logic synthesis using industry-relevant open-source VLSI tools.
 The projects focus on building strong fundamentals in digital design and hardware description using Verilog, following a complete RTL-to-netlist flow.
 
