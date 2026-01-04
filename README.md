@@ -5,12 +5,17 @@ The projects focus on building strong fundamentals in digital design and hardwar
 
 🔧 Tools & Technologies
 
--•	**Verilog HDL** – RTL design and testbench development
--•	**Icarus Verilog** – Compilation and simulation
--•	**GTKWave** – Signal waveform visualization and debugging
--•  **Yosys** – RTL synthesis and gate-level netlist generation
--•	**Graphviz / xdot** – Logic-level schematic visualization
--•	**Linux (Ubuntu)** – Command-line based design flow
+•  **Verilog HDL** – RTL design and testbench development
+
+•	**Icarus Verilog** – Compilation and simulation
+
+•	**GTKWave** – Signal waveform visualization and debugging
+
+•  **Yosys** – RTL synthesis and gate-level netlist generation
+
+•	**Graphviz / xdot** – Logic-level schematic visualization
+
+•	**Linux (Ubuntu)** – Command-line based design flow
 
 📂 Repository Structure
 
