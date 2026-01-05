@@ -1,0 +1,6 @@
+read_verilog inverter.v
+synth -top inverter
+write_json inverter.json
+write_verilog inverter_synth.v
+write_blif inverter.blif
+show
